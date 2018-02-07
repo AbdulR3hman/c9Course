@@ -8,6 +8,8 @@ import java.sql.Statement;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+//TEsting Database
+
 public class TestDB {
     
     public static void main(String... args){
